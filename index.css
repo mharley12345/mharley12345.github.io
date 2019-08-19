@@ -1,5 +1,8 @@
 
-    <style> h1{
+.container {
+    display:flex
+};
+h1{
         text-align:center;
         font-size:100px;
       ul {
@@ -7,5 +10,5 @@
       };
       h2{
        text-align:center; 
-      }
-      </style>
+      }'
+      
