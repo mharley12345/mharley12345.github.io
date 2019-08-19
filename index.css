@@ -1,8 +1,11 @@
-  <style> 
-  
-  h1 {
+
+    <style> h1{
         text-align:center;
         font-size:100px;
-      }           
-      
+      ul {
+        display:flex;
+      };
+      h2{
+       text-align:center; 
+      }
       </style>
