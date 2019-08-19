@@ -1,15 +1,9 @@
-
-.container , h1 {
+.constainer {
     display:flex;
+}
+h1 {
+    text-align:center;
+    font-size: 7em;
+    margin-left: 400px;
+}
 
-        text-align:center;
-        font-size:7rem;
-    margin-left:7rem;
-    }
-      ul {
-        display:flex;
-      };
-      h2{
-       text-align:center; 
-      }'
-      
